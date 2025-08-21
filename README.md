@@ -61,6 +61,7 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
 YANDEX_API_KEY=your_yandex_gpt_api_key
 YANDEX_FOLDER_ID=your_yandex_folder_id
 YANDEX_SPEECH_API_KEY=your_speechkit_api_key
+
 Запустите бота:
 
 bash
